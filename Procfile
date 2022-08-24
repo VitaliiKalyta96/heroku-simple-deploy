@@ -1,1 +1,1 @@
-web: gunicorn wsgi:heroku-training-deploy
+web: gunicorn wsgi
