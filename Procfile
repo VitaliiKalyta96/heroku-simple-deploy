@@ -1,1 +1,1 @@
-web: gunicorn app:heroku-training-deploy
+web: gunicorn app
